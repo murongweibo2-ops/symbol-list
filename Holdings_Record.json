@@ -20,6 +20,13 @@
       "Shares_Held": 48,
       "Average_Cost_Price": 214.34,
       "Business_Scope_Core_Products": "电子商务零售（Amazon.com）、云计算服务（Amazon Web Services, AWS）、数字流媒体（Prime Video）和智能设备（Echo/Alexa, Kindle）。"
+    },
+    {
+      "Symbol": "USD",
+      "Product_Name_CN": "美元现金 (剩余配置额度)",
+      "Shares_Held": 181.93,
+      "Average_Cost_Price": 1.00,
+      "Business_Scope_Core_Products": "剩余资金"
     }
   ]
 }
