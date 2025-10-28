@@ -1,32 +1,32 @@
 {
-  "Holdings_Record": [
-    {
-      "Symbol": "ADBE",
-      "Product_Name_CN": "ADBE (奥多比公司)",
-      "Shares_Held": 12,
-      "Average_Cost_Price": 344.13,
-      "Business_Scope_Core_Products": "提供内容创作、文件管理、数字营销和广告的软件与服务。知名产品包括：Photoshop, Illustrator, Acrobat, Premiere Pro 等（隶属于创意云Creative Cloud）。"
-    },
-    {
-      "Symbol": "COP",
-      "Product_Name_CN": "COP (康菲石油)",
-      "Shares_Held": 60,
-      "Average_Cost_Price": 87.94,
-      "Business_Scope_Core_Products": "全球最大的独立油气勘探和生产（E&P）公司之一，核心业务包括勘探、开发和生产石油及天然气，直接面向消费者的知名产品较少。"
-    },
-    {
-      "Symbol": "AMZN",
-      "Product_Name_CN": "AMZN (亚马逊公司)",
-      "Shares_Held": 21,
-      "Average_Cost_Price": 219.75,
-      "Business_Scope_Core_Products": "电子商务零售（Amazon.com）、云计算服务（Amazon Web Services, AWS）、数字流媒体（Prime Video）和智能设备（Echo/Alexa, Kindle）。"
-    },
-    {
-      "Symbol": "USD",
-      "Product_Name_CN": "美元现金 (剩余配置额度)",
-      "Shares_Held": 18.12,
-      "Average_Cost_Price": 1.00,
-      "Business_Scope_Core_Products": "剩余资金"
-    }
-  ]
+  "Holdings_Record": [
+    {
+      "Symbol": "ADBE",
+      "Product_Name_CN": "ADBE (奥多比公司)",
+      "Shares_Held": 12,
+      "Average_Cost_Price": 344.13,
+      "Business_Scope_Core_Products": "提供内容创作、文件管理、数字营销和广告的软件与服务。知名产品包括：Photoshop, Illustrator, Acrobat, Premiere Pro 等（隶属于创意云Creative Cloud）。"
+    },
+    {
+      "Symbol": "COP",
+      "Product_Name_CN": "COP (康菲石油)",
+      "Shares_Held": 60,
+      "Average_Cost_Price": 87.94,
+      "Business_Scope_Core_Products": "全球最大的独立油气勘探和生产（E&P）公司之一，核心业务包括勘探、开发和生产石油及天然气，直接面向消费者的知名产品较少。"
+    },
+    {
+      "Symbol": "AMZN",
+      "Product_Name_CN": "AMZN (亚马逊公司)",
+      "Shares_Held": 21,
+      "Average_Cost_Price": 219.75,
+      "Business_Scope_Core_Products": "电子商务零售（Amazon.com）、云计算服务（Amazon Web Services, AWS）、数字流媒体（Prime Video）和智能设备（Echo/Alexa, Kindle）。"
+    },
+    {
+      "Symbol": "USD",
+      "Product_Name_CN": "美元现金 (剩余配置额度)",
+      "Shares_Held": 18.12,
+      "Average_Cost_Price": 1.00,
+      "Business_Scope_Core_Products": "剩余资金"
+    }
+  ]
 }
