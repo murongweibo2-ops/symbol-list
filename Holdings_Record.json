@@ -28,9 +28,27 @@
       "Shares_Before_Liquidation": 21
     },
     {
+      "Symbol": "JD",
+      "Product_Name_CN": "JD (京东集团)",
+      "Shares_Held": 82,
+      "Average_Cost_Price": 32.00,
+      "Business_Scope_Core_Products": "电子商务、零售基础设施和服务、物流。",
+      "Realized_Gain_Loss": 0.00,
+      "Shares_Before_Liquidation": 0 
+    },
+    {
+      "Symbol": "NKE",
+      "Product_Name_CN": "NKE (耐克公司)",
+      "Shares_Held": 42,
+      "Average_Cost_Price": 62.16,
+      "Business_Scope_Core_Products": "运动鞋、服装、器材及配件的设计、制造和全球销售。",
+      "Realized_Gain_Loss": 0.00,
+      "Shares_Before_Liquidation": 0 
+    },
+    {
       "Symbol": "USD",
       "Product_Name_CN": "美元现金 (剩余配置额度)",
-      "Shares_Held": 5292.165,
+      "Shares_Held": 57.445,
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
       "Realized_Gain_Loss": 0.00,
