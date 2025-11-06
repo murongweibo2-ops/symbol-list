@@ -47,6 +47,7 @@
         "Booking Holdings": {"symbol": "BKNG", "industry": "非必需消费"},
         "通用汽车 (GM)": {"symbol": "GM", "industry": "非必需消费"},
         "阿里巴巴 (BABA)": {"symbol": "BABA", "industry": "非必需消费"},
+        "京东 (JD.com)": {"symbol": "JD", "industry": "非必需消费"},
         "LVMH (ADR)": {"symbol": "LVMUY", "industry": "非必需消费"},
 
         "联合健康 (UNH)": {"symbol": "UNH", "industry": "医疗保健"},
