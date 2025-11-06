@@ -1,4 +1,5 @@
 {
+  "Total_Initial_Cost": 14020.71,
   "Holdings_Record": [
     {
       "Symbol": "ADBE",
@@ -34,7 +35,8 @@
       "Average_Cost_Price": 32.00,
       "Business_Scope_Core_Products": "电子商务、零售基础设施和服务、物流。",
       "Realized_Gain_Loss": 0.00,
-      "Shares_Before_Liquidation": 0 
+      "Shares_Before_Liquidation": 82 
+      // ⚠️ 建议：将 Shares_Before_Liquidation 更新为 82，以正确处理平仓后的历史成本计算
     },
     {
       "Symbol": "NKE",
@@ -43,7 +45,8 @@
       "Average_Cost_Price": 62.16,
       "Business_Scope_Core_Products": "运动鞋、服装、器材及配件的设计、制造和全球销售。",
       "Realized_Gain_Loss": 0.00,
-      "Shares_Before_Liquidation": 0 
+      "Shares_Before_Liquidation": 42
+      // ⚠️ 建议：将 Shares_Before_Liquidation 更新为 42
     },
     {
       "Symbol": "USD",
@@ -52,7 +55,8 @@
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
       "Realized_Gain_Loss": 0.00,
-      "Shares_Before_Liquidation": 0
+      "Shares_Before_Liquidation": 5292.165 
+      // ⚠️ 建议：USD的 Shares_Before_Liquidation 应该保持为上次的初始金额，用于计算现金余额的变动，这里我用回您上次提供的 5292.165
     }
   ]
 }
