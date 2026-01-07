@@ -16,7 +16,7 @@
       "Shares_Held": 30,
       "Average_Cost_Price": 87.94,
       "Business_Scope_Core_Products": "全球最大的独立油气勘探和生产（E&P）公司之一，核心业务包括勘探、开发和生产石油及天然气，直接面向消费者的知名产品较少。",
-      "Realized_Gain_Loss": 0.00,
+      "Realized_Gain_Loss": 361.8,
       "Shares_Before_Liquidation": 60
     },
     {
@@ -52,7 +52,7 @@
       "Shares_Held": 3057.445,
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
-      "Realized_Gain_Loss": 3000.00,
+      "Realized_Gain_Loss": 0,
       "Shares_Before_Liquidation": 5292.165
     }
   ]
