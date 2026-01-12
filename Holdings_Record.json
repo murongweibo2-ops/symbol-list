@@ -4,10 +4,10 @@
     {
       "Symbol": "ADBE",
       "Product_Name_CN": "ADBE (奥多比公司)",
-      "Shares_Held": 12,
+      "Shares_Held": 0,
       "Average_Cost_Price": 344.13,
       "Business_Scope_Core_Products": "提供内容创作、文件管理、数字营销和广告的软件与服务。知名产品包括：Photoshop, Illustrator, Acrobat, Premiere Pro 等（隶属于创意云Creative Cloud）。",
-      "Realized_Gain_Loss": 0.00,
+      "Realized_Gain_Loss": -92.4,
       "Shares_Before_Liquidation": 12
     },
     {
@@ -49,7 +49,7 @@
     {
       "Symbol": "USD",
       "Product_Name_CN": "美元现金 (剩余配置额度)",
-      "Shares_Held": 5785.135,
+      "Shares_Held": 9822.295,
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
       "Realized_Gain_Loss": 0,
