@@ -40,16 +40,16 @@
     {
       "Symbol": "NKE",
       "Product_Name_CN": "NKE (耐克公司)",
-      "Shares_Held": 42,
+      "Shares_Held": 0,
       "Average_Cost_Price": 62.16,
       "Business_Scope_Core_Products": "运动鞋、服装、器材及配件的设计、制造和全球销售。",
-      "Realized_Gain_Loss": 0.00,
+      "Realized_Gain_Loss": 116.76,
       "Shares_Before_Liquidation": 42
     },
     {
       "Symbol": "USD",
       "Product_Name_CN": "美元现金 (剩余配置额度)",
-      "Shares_Held": 3057.445,
+      "Shares_Held": 5785.135,
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
       "Realized_Gain_Loss": 0,
