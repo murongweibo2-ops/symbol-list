@@ -26,7 +26,7 @@
       "Average_Cost_Price": 422,
       "Business_Scope_Core_Products": "微软",
       "Realized_Gain_Loss": 0.00,
-      "Shares_Before_Liquidation": 10
+      "Shares_Before_Liquidation": 0
     },
     {
       "Symbol": "AMZN",
@@ -62,7 +62,7 @@
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
       "Realized_Gain_Loss": 0,
-      "Shares_Before_Liquidation": 5292.165
+      "Shares_Before_Liquidation": 8158.47
     }
   ]
 }
