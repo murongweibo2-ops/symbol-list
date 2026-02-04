@@ -20,6 +20,15 @@
       "Shares_Before_Liquidation": 60
     },
     {
+      "Symbol": "MSFT",
+      "Product_Name_CN": "微软",
+      "Shares_Held": 10,
+      "Average_Cost_Price": 422,
+      "Business_Scope_Core_Products": "微软",
+      "Realized_Gain_Loss": 0.00,
+      "Shares_Before_Liquidation": 0
+    },
+    {
       "Symbol": "AMZN",
       "Product_Name_CN": "AMZN (亚马逊公司)",
       "Shares_Held": 0,
@@ -49,7 +58,7 @@
     {
       "Symbol": "USD",
       "Product_Name_CN": "美元现金 (剩余配置额度)",
-      "Shares_Held": 10184.095,
+      "Shares_Held": 5964.095,
       "Average_Cost_Price": 1.00,
       "Business_Scope_Core_Products": "剩余资金",
       "Realized_Gain_Loss": 0,
